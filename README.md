@@ -39,6 +39,6 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 
 📧 Contact
 
-For any inquiries or feedback, please reach out at k.tarunkumarreddy12@gmail.com.
+For any inquiries or feedback, please reach out at abhishekderangula1305@gmail.com.
 
 Thank you for checking out this Ecommerce Website! Happy Shopping! 🛍️✨
