@@ -18,7 +18,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository**: 
    ```bash
-## git clone https://github.com/TarunKumarReddyK/E-Commerce.git
+## git clone https://derangulaabhishek.github.io/Smart_Shoping/
 
    3.	Open index.html in your browser: You can simply double-click the index.html file or open it through a web server.
 
